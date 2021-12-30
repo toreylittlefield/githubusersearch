@@ -5,7 +5,3 @@ functions = "functions/"
 publish ='build'
 
 
-[[redirects]]
-from = "/functions*"
-to = "https://api.github.com/users/:splat"
-status = 200
